@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-
 // ignore: must_be_immutable
 class CustomText extends StatelessWidget {
   CustomText({
@@ -25,7 +24,6 @@ class CustomText extends StatelessWidget {
         overflow: overflow,
         fontSize: fontSize,
         color: color,
-        fontFamily: 'Lato',
         fontWeight: fontWeight,
       ),
     );
